@@ -9,7 +9,7 @@
 
 ## Problem Statement
 
-This project aims to advise Aimes resident that if they want to seel their houses which features of the house will help increase or decrease the sale price.
+  This project aims to advise Aimes resident that if they want to seel their houses which features of the house will help increase or decrease the sale price.
 ------------------------------------------------------------------------
 ## Executive Summary
 
