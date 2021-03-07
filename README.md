@@ -15,39 +15,35 @@
 ------------------------------------------------------------------------
 ## Data Dictionary
 
-| Feature           | Type         | Dataset           | Description                                |
-| :---------------: | :----------: | ----------------: | -----------------------------------------: |
-|Overall            | object       | sat_all           | US State name                              |
-|Gr Liv Area  | float        | sat_all           | The participation rate of SAT test in 2017 |
-|Total Bsmt SF           | int          | sat_all           |Average SAT Reading and Writing Score in 2017  |
-|Garage Area           | int          | sat_all           |Average SAT Math Score in 2017              |
-|Garage Cars          | int          | sat_all           |Average SAT Total Score in 2017             |
-|1st Flr SF  | float        | sat_all           | The participation rate of SAT test in 2018 |
-|Year Built          | int          | sat_all           |Average SAT Reading and Writing Score in 2018 |
-|Garage Yr Blt         | int          | sat_all           |Average SAT Math Score in 2018              |
-|Year Remod/Add          | int          | sat_all           |Average SAT Total Score in 2018             |
-|Full Bath  | float        | sat_all           | The participation rate of SAT test in 2019 |
-|Foundation           | int          | sat_all           |Average SAT Reading and Writing Score in 2019 |
-|Mas Vnr Area           | int          | sat_all           |Average SAT Math Score in 2019              |
-|TotRms AbvGrd          | int          | sat_all           |Average SAT Total Score in 2019             |
-|Fireplaces              | object       | act_all           | US State code                              |
-|BsmtFin Type 1            | object       | act_all           | US State name                              |
-|participation_17  | float        | sat_all           | The participation rate of ACT test in 2017 |
-|english_17        | float        | sat_all           |Average ACT English Score in 2017           |
-|math_17           | float        | sat_all           |Average ACT Math Score in 2017              |
-|reading_17        | float        | sat_all           |Average ACT Reading Score in 2017           |
-|science_17        | float        | sat_all           |Average ACT Science Score in 2017           |
-|composite_17      | float        | sat_all           |Average ACT Composite Score in 2017         |
-|english_18        | float        | sat_all           |Average ACT English Score in 2018           |
-|math_18           | float        | sat_all           |Average ACT Math Score in 2018              |
-|reading_18        | float        | sat_all           |Average ACT Reading Score in 2018           |
-|science_18        | float        | sat_all           |Average ACT Science Score in 2018           |
-|composite_18      | float        | sat_all           |Average ACT Composite Score in 2018         |
-|english_19        | float        | sat_all           |Average ACT English Score in 2019           |
-|math_19           | float        | sat_all           |Average ACT Math Score in 2019              |
-|reading_19        | float        | sat_all           |Average ACT Reading Score in 2019           |
-|science_19        | float        | sat_all           |Average ACT Science Score in 2019           |
-|composite_19      | float        | sat_all           |Average ACT Composite Score in 2019         |
+| Feature           | Type         | Description                                |
+| :---------------: | :----------: | -----------------------------------------: |
+|Overall Qual       | object       | Overall material and finish quality        |
+|Gr Liv Area        | int          | Above grade (ground) living area square feet |
+|Total Bsmt SF      | float        | Total square feet of basement area  |
+|Garage Area        | float        | Size of garage in square feet             |
+|Garage Cars        | float        | Size of garage in car capacity             |
+|1st Flr SF         | int          | First Floor square feet |
+|Year Built         | int          | Original construction date |
+|Garage Yr Blt      | int          | Year garage was built              |
+|Year Remod/Add     | int          | Remodel date (same as construction date if no remodeling or additions)             |
+|Full Bath          | int          | Full bathrooms above grade |
+|Foundation         | object       | Type of foundation |
+|Mas Vnr Area       | float        | Masonry veneer area in square feet              |
+|TotRms AbvGrd      | int          | Total rooms above grade (does not include bathrooms)             |
+|Fireplaces         | object       | Number of fireplaces                              |
+|BsmtFin Type 1     | object       | Quality of basement finished area                            |
+|Exter Qual         | object       | Exterior material quality |
+|BsmtFin SF 1       | float        | Type 1 finished square feet          |
+|Bsmt Exposure      | object       | Walkout or garden level basement walls              |
+|Garage Type        | object       | Garage location           |
+|Garage Finish      | object       | Interior finish of the garage           |
+|Lot Frontage       | float        | Linear feet of street connected to property         |
+|Lot Area           | float        | Lot size in square feet           |
+|Bsmt Qual          | object       | Height of the basement              |
+|1stFlrSF           | int          | First Floor square feet          |
+|Yr Sold            | float        | Year Sold          |
+|TotalBsmtSF        | float        | Total square feet of basement area         |
+
 
 ------------------------------------------------------------------------
 ## Conclusions and Recommendations
