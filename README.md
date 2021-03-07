@@ -27,22 +27,26 @@
 |Garage Yr Blt      | int          | Year garage was built              |
 |Year Remod/Add     | int          | Remodel date (same as construction date if no remodeling or additions)             |
 |Full Bath          | int          | Full bathrooms above grade |
-|Foundation         | object       | Type of foundation |
+|Street             | object       | Type of road access to property |
 |Mas Vnr Area       | float        | Masonry veneer area in square feet              |
 |TotRms AbvGrd      | int          | Total rooms above grade (does not include bathrooms)             |
-|Fireplaces         | object       | Number of fireplaces                              |
-|BsmtFin Type 1     | object       | Quality of basement finished area                            |
+|Lot Shape          | object       | General shape of property                             |
+|Land Contour       | object       | Flatness of the property                            |
+|Lot Config         | object       | Lot configuration                            |
+|Condition 1        | object       | Proximity to main road or railroad                            |
+|House Style        | object       | Style of dwelling                            |
 |Exter Qual         | object       | Exterior material quality |
-|BsmtFin SF 1       | float        | Type 1 finished square feet          |
+|Exter Cond         | object       | Present condition of the material on the exterior|
+|Foundation         | object       | Type of foundation|
+|Bsmt Qual          | object       | Height of the basement              |
 |Bsmt Exposure      | object       | Walkout or garden level basement walls              |
+|BsmtFin Type 1     | object       | Quality of basement finished area                            |
+|Central Air        | object       | Central air conditioning                         |
+|Fireplace Qu       | object       | Fireplace quality                         |
 |Garage Type        | object       | Garage location           |
 |Garage Finish      | object       | Interior finish of the garage           |
-|Lot Frontage       | float        | Linear feet of street connected to property         |
-|Lot Area           | float        | Lot size in square feet           |
-|Bsmt Qual          | object       | Height of the basement              |
-|1stFlrSF           | int          | First Floor square feet          |
-|Yr Sold            | float        | Year Sold          |
-|TotalBsmtSF        | float        | Total square feet of basement area         |
+|Garage Cond        | object       | Garage condition           |
+|Paved Drive        | object       | Paved driveway          |
 
 
 ------------------------------------------------------------------------
