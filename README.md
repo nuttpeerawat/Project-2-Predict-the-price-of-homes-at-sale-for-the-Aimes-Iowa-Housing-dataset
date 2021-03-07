@@ -67,3 +67,10 @@ To explore which features of the house that affect the sale price, I used data f
 - The fourth feature affect sale price the most is excellent height of the basement (100+ inches) with a coefficient at 8647, this means that if one unit increase in excellent height of the basement price of the house will increase 8,647 US dollar.
 
 - The fifth feature affect sale price the most is garage area with a coefficient at 8039, this means that if one unit increase in garage area price of the house will increase 8,039 US dollar.
+
+For Sellers
+ - For people who want to sell their house in Aimes they can use this model to predict their house price.
+ - For real estate agent they can use these top 5 features  to predict price of the house before buy or selling it, so they can gain the maximum profit.
+
+For Buyers
+ - For people who want to buy house in Aimes they can use this top 5 features to find the house that suitable for their budget such as if they got a limit budget but wnat to find house that bigger they can find house that has lower material quality for a lower price.
