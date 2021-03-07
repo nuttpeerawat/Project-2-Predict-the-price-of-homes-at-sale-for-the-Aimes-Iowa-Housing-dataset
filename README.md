@@ -9,10 +9,12 @@
 
 ## Problem Statement
 
-This project aims to advise Aimes resident that if they want to sell their houses which features of the house will help increase or decrease the sale price.
+The project aims to advise Aimes residents that if they want to sell a house, which features of the house will increase or decrease the selling price and also advise people who want to buy a house in Aimes by provide an information that can help inform buyers to look for the right kind of feature in a house.
 
 ------------------------------------------------------------------------
 ## Executive Summary
+
+To explore which features of the house that affect the sale price, I used data from Kaggle which contain features of the house. This project aims to use features of house to predict sale price of the house by using linear regression and also use other regression like ridge regression, lasso regression and elasticnet regression if the model is overfitting.
 
 ------------------------------------------------------------------------
 ## Data Dictionary
