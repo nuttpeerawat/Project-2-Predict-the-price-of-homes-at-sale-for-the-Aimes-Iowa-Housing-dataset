@@ -17,21 +17,21 @@
 
 | Feature           | Type         | Dataset           | Description                                |
 | :---------------: | :----------: | ----------------: | -----------------------------------------: |
-|state             | object       | sat_all           | US State name                              |
-|participation_17  | float        | sat_all           | The participation rate of SAT test in 2017 |
-|ebrw_17           | int          | sat_all           |Average SAT Reading and Writing Score in 2017  |
-|math_17           | int          | sat_all           |Average SAT Math Score in 2017              |
-|total_17          | int          | sat_all           |Average SAT Total Score in 2017             |
-|participation_18  | float        | sat_all           | The participation rate of SAT test in 2018 |
-|ebrw_18           | int          | sat_all           |Average SAT Reading and Writing Score in 2018 |
-|math_18           | int          | sat_all           |Average SAT Math Score in 2018              |
-|total_18          | int          | sat_all           |Average SAT Total Score in 2018             |
-|participation_19  | float        | sat_all           | The participation rate of SAT test in 2019 |
-|ebrw_19           | int          | sat_all           |Average SAT Reading and Writing Score in 2019 |
-|math_19           | int          | sat_all           |Average SAT Math Score in 2019              |
-|total_19          | int          | sat_all           |Average SAT Total Score in 2019             |
-|code              | object       | act_all           | US State code                              |
-|state             | object       | act_all           | US State name                              |
+|Overall            | object       | sat_all           | US State name                              |
+|Gr Liv Area  | float        | sat_all           | The participation rate of SAT test in 2017 |
+|Total Bsmt SF           | int          | sat_all           |Average SAT Reading and Writing Score in 2017  |
+|Garage Area           | int          | sat_all           |Average SAT Math Score in 2017              |
+|Garage Cars          | int          | sat_all           |Average SAT Total Score in 2017             |
+|1st Flr SF  | float        | sat_all           | The participation rate of SAT test in 2018 |
+|Year Built          | int          | sat_all           |Average SAT Reading and Writing Score in 2018 |
+|Garage Yr Blt         | int          | sat_all           |Average SAT Math Score in 2018              |
+|Year Remod/Add          | int          | sat_all           |Average SAT Total Score in 2018             |
+|Full Bath  | float        | sat_all           | The participation rate of SAT test in 2019 |
+|Foundation           | int          | sat_all           |Average SAT Reading and Writing Score in 2019 |
+|Mas Vnr Area           | int          | sat_all           |Average SAT Math Score in 2019              |
+|TotRms AbvGrd          | int          | sat_all           |Average SAT Total Score in 2019             |
+|Fireplaces              | object       | act_all           | US State code                              |
+|BsmtFin Type 1            | object       | act_all           | US State name                              |
 |participation_17  | float        | sat_all           | The participation rate of ACT test in 2017 |
 |english_17        | float        | sat_all           |Average ACT English Score in 2017           |
 |math_17           | float        | sat_all           |Average ACT Math Score in 2017              |
