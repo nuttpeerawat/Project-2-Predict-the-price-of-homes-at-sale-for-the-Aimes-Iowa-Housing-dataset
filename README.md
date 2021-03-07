@@ -9,7 +9,7 @@
 
 ## Problem Statement
 
-The project aims to advise Aimes residents that if they want to sell a house, what top 5 features of the house will help increase the selling price.
+The project aims to advise Aimes residents that if they want to sell a house, what top 5 features of the house will help increase the selling price and also help people who want to buy a house in Aimes that which top 5 features they should 
 
 ------------------------------------------------------------------------
 ## Executive Summary
@@ -55,3 +55,15 @@ To explore which features of the house that affect the sale price, I used data f
 
 ------------------------------------------------------------------------
 ## Conclusions and Recommendations
+
+### Top 5 features
+
+- The top feature affect sale price the most is ground living square feet with a coefficient at 25075, this means that if one unit increase in ground living square feet price of the house will increase 25,075 US dollar.
+
+- The second feature affect sale price the most is overall material and finish quality with a coefficient at 14587, this means that if one unit increase in quality price of the house will increase 14,587 US dollar.
+
+- The third feature affect sale price the most is total square feet of basement area with a coefficient at 12604, this means that if one unit increase in basement area price of the house will increase 12,604 US dollar.
+
+- The fourth feature affect sale price the most is excellent height of the basement (100+ inches) with a coefficient at 8647, this means that if one unit increase in excellent height of the basement price of the house will increase 8,647 US dollar.
+
+- The fifth feature affect sale price the most is garage area with a coefficient at 8039, this means that if one unit increase in garage area price of the house will increase 8,039 US dollar.
