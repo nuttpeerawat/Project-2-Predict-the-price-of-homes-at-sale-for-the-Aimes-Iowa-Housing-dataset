@@ -9,7 +9,7 @@
 
 ## Problem Statement
 
-The project aims to advise Aimes residents that if they want to sell a house, which features of the house will increase or decrease the selling price and also advise people who want to buy a house in Aimes by provide an information that can help inform buyers to look for the right kind of feature in a house.
+The project aims to advise Aimes residents that if they want to sell a house, what top 5 features of the house will help increase the selling price.
 
 ------------------------------------------------------------------------
 ## Executive Summary
