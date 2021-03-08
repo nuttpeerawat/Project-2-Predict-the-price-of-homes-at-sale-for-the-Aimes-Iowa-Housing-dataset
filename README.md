@@ -9,7 +9,7 @@
 
 ## Problem Statement
 
-The project aims to advise people who they want to sell or buy a house in Aimes, which top 5 features of the house will help increase the selling price.
+As a data scientist of the real estate company in Ames, Iowa I want to find which is a top 5 features of the house that will increase the selling price, so the company can get the maximum benefit from it.
 
 ------------------------------------------------------------------------
 ## Executive Summary
@@ -68,9 +68,6 @@ To explore which features of the house that affect the sale price, I used data f
 
 - The fifth feature affect sale price the most is garage area with a coefficient at 8039, this means that if one unit increase in garage area price of the house will increase 8,039 US dollar.
 
-For Sellers
- - For people who want to sell their house in Aimes they can use this model to predict their house price.
+Reccomendation
  - For real estate agent they can use these top 5 features  to predict price of the house before buy or selling it, so they can gain the maximum profit.
-
-For Buyers
- - For people who want to buy house in Aimes they can use this top 5 features to find the house that suitable for their budget such as if they got a limit budget but wnat to find house that bigger they can find house that has lower material quality for a lower price.
+ - Before selling the house the company can renovate some part of the house to get the higher price.
